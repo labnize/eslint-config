@@ -7,7 +7,13 @@
 ## 安装使用
 
 ```bash
-yarn add --dev eslint eslint-config-claa
+npm install --save-dev eslint@3 eslint-config-claa
+```
+
+or
+
+```bash
+yarn add --dev eslint@3 eslint-config-claa
 ```
 
 ```js
